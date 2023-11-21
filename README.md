@@ -37,14 +37,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home-pagina 
-  <img src="readme-images/Home1.jpeg" width="375px" alt="Currently reading en To-read pile">
-  <img src="readme-images/Home2.jpeg" width="375px" alt="Recommendations en Giveaways">
-  <img src="readme-images/Home3.jpeg" width="375px" alt="Hamburger menu op de Homepagina">
+  <img src="readme-images/Home1.jpeg" width="100px" alt="Currently reading en To-read pile">
+  <img src="readme-images/Home2.jpeg" width="100px" alt="Recommendations en Giveaways">
+  <img src="readme-images/Home3.jpeg" width="100px" alt="Hamburger menu op de Homepagina">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Statenstieken-scherm. Hier kan je verschillende grafieken zien over het aantal boeken of welke genre je het meeste gelezen heb. 
-  <img src="readme-images/Stats1.jpeg" width="375px" alt="Filters">
+  <img src="readme-images/Stats1.jpeg" width="100px" alt="Filters">
  
 </details>
 
