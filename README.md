@@ -36,21 +36,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   <p>Home-pagina</p>
-  <img src="readme-images/Home1.jpeg" width="100px" alt="Currently reading en To-read pile">
-  <img src="readme-images/Home2.jpeg" width="100px" alt="Recommendations en Giveaways">
-  <img src="readme-images/Home3.jpeg" width="100px" alt="Hamburger menu op de Homepagina">
-  <img src="readme-images/TheStoryGraph-full-Homescreen.png" width="200px" alt="Volledige homepagina">
-
+  <img src="readme-images/TheStoryGraph-full-Homescreen.png" width="200px" alt="Volledige home">
+  <img src="readme-images/Home1.jpeg" width="200px" alt="Currently reading en To-read pile">
+  <img src="readme-images/Home2.jpeg" width="200px" alt="Recommendations en Giveaways">
+  <img src="readme-images/Home3.jpeg" width="200px" alt="Hamburger menu op de Homepagina">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   <p>Statenstieken-scherm. Hier kan je verschillende grafieken zien over het aantal boeken of welke genre je het meeste gelezen heb. </p>
   <img src="readme-images/TheStoryGraph-full-stats.png" width="200px" alt="Volledige statspagina">
-  <img src="readme-images/Stats1.jpeg" width="100px" alt="Filters">
-  <img src="readme-images/Stats5.jpeg" width="100px" alt="Filters opties">
-  <img src="readme-images/Stats2.jpeg" width="100px" alt="Cirkeldiagrammen">
-  <img src="readme-images/Stats3.jpeg" width="100px" alt="Lijndiagram">
-  <img src="readme-images/Stats4.jpeg" width="100px" alt="Staafdiagram">
+  <img src="readme-images/Stats1.jpeg" width="200px" alt="Filters">
+  <img src="readme-images/Stats5.jpeg" width="200px" alt="Filters opties">
+  <img src="readme-images/Stats2.jpeg" width="200px" alt="Cirkeldiagrammen">
+  <img src="readme-images/Stats3.jpeg" width="200px" alt="Lijndiagram">
+  <img src="readme-images/Stats4.jpeg" width="200px" alt="Staafdiagram">
   
  
 </details>
