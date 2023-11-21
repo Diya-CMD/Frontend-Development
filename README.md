@@ -32,8 +32,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  <p> https://app.thestorygraph.com/
-    De website/app 'The Storygraph' is een applicatie waar jij je boeken in kan opslaan. Je kan duidelijk sorteren met welke boeken je al gelezen hebt en welke je nog moet lezen. Je kan ook gemakkelijk zien welke schrijver(st)er of genre je leuk vind, omdat er verschillende grafieken zijn die dat weergeven.</p>
+   https://app.thestorygraph.com/
+    De website/app 'The Storygraph' is een applicatie waar jij je boeken in kan opslaan. Je kan duidelijk sorteren met welke boeken je al gelezen hebt en welke je nog moet lezen. Je kan ook gemakkelijk zien welke schrijver(st)er of genre je leuk vind, omdat er verschillende grafieken zijn die dat weergeven.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   <p>Home-pagina</p>
