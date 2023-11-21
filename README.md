@@ -50,19 +50,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/Stats2.jpeg" width="200px" alt="Cirkeldiagrammen">
   <img src="readme-images/Stats3.jpeg" width="200px" alt="Lijndiagram">
   <img src="readme-images/Stats4.jpeg" width="200px" alt="Staafdiagram">
-  
- 
-</details>
+
+</details> 
 
 
 
 ## Toegankelijkheidstest 1/2 (week 1)
-
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  
 
 </details>
 
