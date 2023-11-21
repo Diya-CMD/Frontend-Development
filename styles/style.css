@@ -12,14 +12,3 @@
 }
 
 
-details{
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	column-gap: 5px;
-	grid-auto-flow: dense;
-}
-
-details: :first-child{
- 	grid-column-start: 3;
-	grid-row-start; 3;
-} 
