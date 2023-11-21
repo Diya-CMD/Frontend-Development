@@ -36,14 +36,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     De website/app 'The Storygraph' iis een applicatie waar jij je boeken in kan opslaan. Je kan duidelijk sorteren met welke boeken je al gelezen hebt en welke je nog moet lezen. Je kan ook gemakkelijk zien welke schrijver(st)er of genre je leuk vind, omdat er verschillende grafieken zijn die dat weergeven.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Home-pagina 
+  <p>Home-pagina</p>
   <img src="readme-images/Home1.jpeg" width="100px" alt="Currently reading en To-read pile">
   <img src="readme-images/Home2.jpeg" width="100px" alt="Recommendations en Giveaways">
   <img src="readme-images/Home3.jpeg" width="100px" alt="Hamburger menu op de Homepagina">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Statenstieken-scherm. Hier kan je verschillende grafieken zien over het aantal boeken of welke genre je het meeste gelezen heb. 
+  <p>Statenstieken-scherm. Hier kan je verschillende grafieken zien over het aantal boeken of welke genre je het meeste gelezen heb. </p>
   <img src="readme-images/Stats1.jpeg" width="100px" alt="Filters">
  
 </details>
