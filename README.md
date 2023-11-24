@@ -37,10 +37,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   <p>Home-pagina</p>
   <img src="readme-images/TheStoryGraph-full-Homescreen.png" width="200px" alt="Volledige home">
+  <img src="readme-images/opgedeelte-hoofdpagina.jpg" width="200px" alt="Opgedeelte pagina">
   <img src="readme-images/Home1.jpeg" width="200px" alt="Currently reading en To-read pile">
   <img src="readme-images/Home2.jpeg" width="200px" alt="Recommendations en Giveaways">
   <img src="readme-images/Home3.jpeg" width="200px" alt="Hamburger menu op de Homepagina">
-  <img src="readme-images/opgedeelte-hoofdpagina.jpg" width="200px" alt="Opgedeelte pagina">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):

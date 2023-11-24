@@ -1,14 +1,20 @@
-/**************/
-/* CSS REMEDY */
-/**************/
 *, *::after, *::before {
   box-sizing:border-box;  
 }
 
-
 :root {
-	--color-text:#111;
-	--color-background:#eee;
+	--color-white:#FFFFFF;
+	--color-turquoise: #0e7c86; 
+	--color-black:#333333;
+	--color-grey: #666666;
+
+	--color-button:
 }
 
+h1{
+	color: var(--color-turquoise)
+}
 
+h2{
+	color: var(--color-turquoise);
+}
