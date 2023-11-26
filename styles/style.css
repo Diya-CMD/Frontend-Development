@@ -1,5 +1,7 @@
 *, *::after, *::before {
   box-sizing:border-box;  
+  font-family: 'Poppins', sans-serif;
+  
 }
 
 :root {
@@ -7,18 +9,25 @@
 	--color-turquoise: #0e7c86; 
 	--color-black:#333333;
 	--color-grey: #666666;
-
-	--color-button:
 }
 
 h1{
-	color: var(--color-turquoise)
+	color: var(--color-turquoise);
 }
 
 h2{
 	color: var(--color-turquoise);
 }
 
+h3{
+	color: var(--color-turquoise);
+}
+
 p{
 	color: var(--color-black);
+}
+
+button{
+	color: var(--color-white);
+	background-color: var(--color-turquoise);
 }
