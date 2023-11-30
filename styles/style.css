@@ -47,10 +47,6 @@ p{
 	font-weight: 14px;
 }
 
-section{
-	background-color: var(--color-white);
-	border-style: groove;
-}
 
 button{
 	color: var(--color-white);

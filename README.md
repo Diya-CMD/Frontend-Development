@@ -37,7 +37,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   <p>Home-pagina</p>
   <img src="readme-images/TheStoryGraph-full-Homescreen.png" width="200px" alt="Volledige home">
-  <img src="readme-images/opgedeelte-hoofdpagina.jpg" width="200px" alt="Opgedeelte pagina">
   <img src="readme-images/Home1.jpeg" width="200px" alt="Currently reading en To-read pile">
   <img src="readme-images/Home2.jpeg" width="200px" alt="Recommendations en Giveaways">
   <img src="readme-images/Home3.jpeg" width="200px" alt="Hamburger menu op de Homepagina">
@@ -45,7 +44,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   <p>Statenstieken-scherm. Hier kan je verschillende grafieken zien over het aantal boeken of welke genre je het meeste gelezen heb. </p>
-  <img src="readme-images/TheStoryGraph-full-stats.png" width="200px" alt="Volledige statspagina">
   <img src="readme-images/Stats1.jpeg" width="200px" alt="Filters">
   <img src="readme-images/Stats5.jpeg" width="200px" alt="Filters opties">
   <img src="readme-images/Stats2.jpeg" width="200px" alt="Cirkeldiagrammen">
@@ -62,6 +60,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  -Het eerste wat is zag was dat een groot stuk van de CSS in de HTML stond. 
+  -Ook werden er h2 en h3 door elkaar gebruikt, terwijl dat bij tags hetzelfde gestijld werden. Kan je liever één h2 gebruiken voor alle kopjes. 
+  -Voor mijn gevoel bleek het ook dat ze onnodige div's hadden gebruikt. 
   
 
 </details>
@@ -73,8 +74,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  ### de hele pagina's: 
+  Home-pagina:
+    <img src="readme-images/opgedeelte-hoofdpagina.jpg" width="200px" alt="Opgedeelte pagina">
+
+  Stats:
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
