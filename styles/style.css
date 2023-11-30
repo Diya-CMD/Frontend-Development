@@ -1,7 +1,6 @@
 *, *::after, *::before {
   box-sizing:border-box;  
   font-family: 'Poppins', sans-serif;
-  
 }
 
 :root {
@@ -11,23 +10,51 @@
 	--color-grey: #666666;
 }
 
+main{
+	display: grid;
+	gap: 1em;
+	grid-template-columns: 1fr ;
+}
+
 h1{
 	color: var(--color-turquoise);
+	margin: 0;
+	padding: 0;
 }
 
 h2{
 	color: var(--color-turquoise);
+
+	margin: 0;
+	padding:0;
+	font-weight: 16px ;
+
 }
 
 h3{
-	color: var(--color-turquoise);
+	color: var(--color-black);
+
+	margin: 0;
+	padding:0;
+	font-weight: 16px;
 }
 
 p{
 	color: var(--color-black);
+
+	margin: 0;
+	padding:0;
+	font-weight: 14px;
+}
+
+section{
+	background-color: var(--color-white);
+	border-style: groove;
 }
 
 button{
 	color: var(--color-white);
 	background-color: var(--color-turquoise);
+	border: none;
+	border-radius: 25px;
 }
