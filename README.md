@@ -100,8 +100,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Voortgang 1 (week 2)
 
 <details>
-  <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
-  
   In deze week was ik ziek, dus kon ik jammer genoeg niet bij de eerste voortgangsgesprek zijn. U kunt bij mijn groepsgenoten; Kaylin Noëlla, Insa en Sem zien wat er deze week besproken werd.
 </details>
 
@@ -115,7 +113,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  <p>Voor deze week heb ik alleen kunnen werken aan de basis HTML en CSS. </P>
+   <p>In de eerste twee afbeeldingen kun je de pagina's van de homepagina zien. Ik heb mijn h2's als in sections opgedeelt. Ik heb voor nu ook op beide pagina's een h1 gezet, maar ik moet nog kijken op welke grote ik ze wil hebben. En ook of ik het daar wil hebben.</p>
+   <img src="readme-images/index-website1.png" width="200px" alt="Index webpagina, Home-pagina">
+  <img src="readme-images/index-html1.png" width="200px" alt="Index html, Home-pagina"> 
+
+  <img src= "readme-images/stats-html1.png" width="200px" alt="Stats html, Statistieken ">
+ 
 
 
   ### Agenda voor meeting
