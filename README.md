@@ -116,11 +116,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Kaylin Noëlla  | Insa               | Sem          | Diya(ik)         |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Kaylin Noëlla                  | Insa               | Sem                        | Diya(ik)         |
+  | ---                            | ---                | ---                        | ---              |
+  | CSS optimaliseren en sematiek  | en dit             | Hero, hamburger en images  | Filters toevoegen|
+  | en dat ook nog                 | dit als er tijd is | nog een punt               | dit wil ik zeker |
+  | ...                            | ...                | ...                        | ...              |
 
 
   ### Verslag van meeting
