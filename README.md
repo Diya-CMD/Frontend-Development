@@ -132,17 +132,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Kaylin Noëlla                  | Insa               | Sem                        | Diya(ik)         |
   | ---                            | ---                | ---                        | ---              |
-  | CSS optimaliseren en sematiek  | en dit             | Hero, hamburger en images  | Filters toevoegen|
-  | en dat ook nog                 | dit als er tijd is | nog een punt               | dit wil ik zeker |
-  | ...                            | ...                | ...                        | ...              |
+  | CSS optimaliseren en sematiek  | (Ziek)             |  (Ziek)                    | Filters toevoegen|
+  | en dat ook nog                 | dit als er tijd is |                            | SVG animatie     |
+  | ...                            | ...                | ...                        | Ik moet even kijken of de svg animatie wel gaat lukken, moeilijk. Voor de filter moet ik Sanne vragen of zelf onderzoeken.           |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Gebruik comments in de css en html.
+  - ./ voor linken, img
+  - 
 - ...
 
 </details>
