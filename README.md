@@ -142,7 +142,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Ik moet even kijken of de svg animatie wel gaat lukken, het is moeilijk. Voor de filter moet ik Sanne vragen of zelf onderzoeken uitvoeren.
   - ./ voor linken, img
   - Gebruik comments in de css en html.
-  - Buttons veranderen naar <a href=#>. Buttons zijn voor formulieren.
+  - Buttons veranderen naar a href=#. Buttons zijn voor formulieren.
 
 </details>
 
