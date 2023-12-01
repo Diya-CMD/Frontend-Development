@@ -59,10 +59,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
-  -Het eerste wat is zag was dat een groot stuk van de CSS in de HTML stond. 
-  -Ook werden er h2 en h3 door elkaar gebruikt, terwijl dat bij tags hetzelfde gestijld werden. Kan je liever één h2 gebruiken voor alle kopjes. 
-  -Voor mijn gevoel bleek het ook dat ze onnodige div's hadden gebruikt. 
+  <p>Lijst met je bevindingen die in de test naar voren kwamen:</p>
+  <p>-Het eerste wat is zag was dat een groot stuk van de CSS in de HTML stond. </p>
+  <p>-Ook werden er h2 en h3 door elkaar gebruikt, terwijl dat bij tags hetzelfde gestijld werden. Kan je liever één h2 gebruiken voor alle kopjes.</p>
+  <p>-Voor mijn gevoel bleek het ook dat ze onnodige div's hadden gebruikt.</p>
   
 
 </details>
@@ -97,7 +97,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
   
-  In deze week was ik ziek, dus kon ik jammer genoeg niet bij de eerste voortgangsgesprek zijn. 
+  In deze week was ik ziek, dus kon ik jammer genoeg niet bij de eerste voortgangsgesprek zijn. U kunt bij mijn groepsgenoten; Kaylin Noëlla, Insa en Sem zien wat er deze week besproken werd.
 </details>
 
 
@@ -116,7 +116,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Kaylin Noëlla  | Insa               | Sem          | Diya(ik)         |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
