@@ -60,9 +60,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   <p>Lijst met je bevindingen die in de test naar voren kwamen:</p>
-  <p>-Het eerste wat is zag was dat een groot stuk van de CSS in de HTML stond. </p>
+  <p>-Het eerste wat is zag was dat een groot stuk van de CSS in de HTML stond, in de head. </p>
   <p>-Ook werden er h2 en h3 door elkaar gebruikt, terwijl dat bij tags hetzelfde gestijld werden. Kan je liever één h2 gebruiken voor alle kopjes.</p>
   <p>-Voor mijn gevoel bleek het ook dat ze onnodige div's hadden gebruikt.</p>
+  <p>-Foto's maken wel gebruik van een alt, maar die is niet altijd correct of duidelijk</p>
+
+  <h2>Screenreader</h2>
+  <p>-Als je met de screenreader in de body komt, zit hij vast op onzichtbare woorden.</p>
   
 
 </details>
