@@ -115,10 +115,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   <p>Voor deze week heb ik alleen kunnen werken aan de basis HTML en CSS. </P>
    <p>In de eerste twee afbeeldingen kun je de pagina's van de homepagina zien. Ik heb mijn h2's als in sections opgedeelt. Ik heb voor nu ook op beide pagina's een h1 gezet, maar ik moet nog kijken op welke grote ik ze wil hebben. En ook of ik het daar wil hebben.</p>
-   <img src="readme-images/index-website1.png" width="200px" alt="Index webpagina, Home-pagina">
-  <img src="readme-images/index-html1.png" width="200px" alt="Index html, Home-pagina"> 
+   <img src="readme-images/index-website1.png" width="300px" alt="Index webpagina, Home-pagina">
+  <img src="readme-images/index-html1.png" width="300px" alt="Index html, Home-pagina"> 
 
-  <img src= "readme-images/stats-html1.png" width="200px" alt="Stats html, Statistieken ">
+  <p>Bij de deze pagina heb ik hetzelfde gedaan, alleen heb ik voor deze pagina in de apparte CSS iets om de sections gezet. Die vakken zijn van de orginele website.</p>
+  <img src= "readme-images/stats-website1.png" width="300px" alt="Stats website, Statistieken pagina">
+  <img src= "readme-images/stats-html1.png" width="300px" alt="Stats html, Statistieken pagina">
  
 
 
