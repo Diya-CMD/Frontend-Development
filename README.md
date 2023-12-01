@@ -130,22 +130,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Kaylin Noëlla                  | Insa               | Sem                        | Diya(ik)         |
-  | ---                            | ---                | ---                        | ---              |
-  | CSS optimaliseren en sematiek  | (Ziek)             |  (Ziek)                    | Filters toevoegen|
-  | en dat ook nog                 | dit als er tijd is |                            | SVG animatie     |
-  | ...                            | ...                | ...                        | ...              |
+  | Kaylin Noëlla     | Insa   | Sem    | Diya(ik)         |
+  | ---               | ---    | ---    | ---              |              
+  | CSS optimaliseren | (Ziek) | (Ziek) | Filters toevoegen|                  
+  | sematiek          |        |        | SVG animatie     |
+  | ...               | ...    | ..     | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-  <p>-Ik moet even kijken of de svg animatie wel gaat lukken, het is moeilijk. Voor de filter moet ik Sanne vragen of zelf onderzoeken uitvoeren.</p>
-  
-
-  - Gebruik comments in de css en html.
+  - Ik moet even kijken of de svg animatie wel gaat lukken, het is moeilijk. Voor de filter moet ik Sanne vragen of zelf onderzoeken uitvoeren.
   - ./ voor linken, img
-  - 
-- ...
+  - Gebruik comments in de css en html.
+  - Buttons veranderen naar <a href=#>. Buttons zijn voor formulieren.
 
 </details>
 
