@@ -35,7 +35,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   De website/app 	<a href="https://app.thestorygraph.com"> The Storygraph</a> is een applicatie waar jij je boeken in kan opslaan. Je kan duidelijk sorteren met welke boeken je al gelezen hebt en welke je nog moet lezen. Je kan ook gemakkelijk zien welke schrijver(st)er of genre je leuk vind, omdat er verschillende grafieken zijn die dat weergeven.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  <p>Home-pagina</p>
+  <h2>Home-pagina</h2>
   <img src="readme-images/TheStoryGraph-full-Homescreen.png" width="200px" alt="Volledige home">
   <img src="readme-images/Home1.jpeg" width="200px" alt="Currently reading en To-read pile">
   <img src="readme-images/Home2.jpeg" width="200px" alt="Recommendations en Giveaways">
@@ -43,7 +43,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  <p>Statenstieken-scherm. Hier kan je verschillende grafieken zien over het aantal boeken of welke genre je het meeste gelezen heb. </p>
+  <h2>Statenstieken-scherm. </h2>
+  <p>Hier kan je verschillende grafieken zien over het aantal boeken of welke genre je het meeste gelezen heb. </p>
   <img src="readme-images/Stats1.jpeg" width="200px" alt="Filters">
   <img src="readme-images/Stats5.jpeg" width="200px" alt="Filters opties">
   <img src="readme-images/Stats2.jpeg" width="200px" alt="Cirkeldiagrammen">
@@ -80,10 +81,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina's: 
-  Home-pagina:
+  <h2>Home-pagina:</h2>
     <img src="readme-images/opgedeelte-hoofdpagina.jpg" width="200px" alt="Opgedeelte pagina, Home-pagina">
 
-  Stats:
+  <h2>Stats:</h2>
+    <img src="readme-images/opgedeelte-stats.jpg" width="200px" alt="Opgedeelte pagina, Statenstieken-pagina">
+
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/opgedeelte-nav.jpg" width="375px" alt="breakdown van een dynamisch deel, Menu">
