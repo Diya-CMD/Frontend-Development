@@ -16,6 +16,11 @@ main section:first-of-type{
     border-radius: 10px;
 }
 
+/* main a{
+    color: var(--color-white);
+    background-color: var(--color-turquoise);
+} */
+
 /* How to create a horizontal scrolling menu. (z.d.). https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp */
 main section img { 
     width: 10em; 

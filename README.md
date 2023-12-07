@@ -226,11 +226,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
-  1. bron 1
+  1. How to create a horizontal scrolling menu. (z.d.). https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp 
+Voor een slideshow the maken
   2. bron 2
   3. ...
 
