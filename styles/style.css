@@ -21,6 +21,11 @@ main{
 	display: grid;
 	gap: 1em;
 	grid-template-columns: 1fr ;
+	margin: 1em;
+}
+
+section{
+	padding: 1em;
 }
 
 h1{
@@ -50,10 +55,6 @@ p{
 	margin: 0;
 	padding:0;
 	font-size: 14px;
-}
-
-img{
-	
 }
 
 
