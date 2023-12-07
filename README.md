@@ -32,25 +32,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  De website/app 	<a href="https://app.thestorygraph.com"> The Storygraph</a> is een applicatie waar jij je boeken in kan opslaan. Je kan duidelijk sorteren met welke boeken je al gelezen hebt en welke je nog moet lezen. Je kan ook gemakkelijk zien welke schrijver(st)er of genre je leuk vind, omdat er verschillende grafieken zijn die dat weergeven.
+  De website/app 	<a href="https://app.thestorygraph.com"> The Storygraph</a> is een applicatie waar jij je boeken in kan opslaan. Je kan duidelijk sorteren met welke boeken je al gelezen hebt en welke je nog moet lezen. Als je op één van de boekenkaft afbeeldingen klikt kom je op een informatie pagina.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   <h2>Home-pagina</h2>
-  <img src="readme-images/TheStoryGraph-full-Homescreen.png" width="200px" alt="Volledige home">
+  <img src="readme-images/TheStoryGraph-full-Homescreen.png" width="200px" alt="Volledige homepagina">
   <img src="readme-images/Home1.jpeg" width="200px" alt="Currently reading en To-read pile">
   <img src="readme-images/Home2.jpeg" width="200px" alt="Recommendations en Giveaways">
   <img src="readme-images/Home3.jpeg" width="200px" alt="Hamburger menu op de Homepagina">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  <h2>Statenstieken-scherm. </h2>
-  <p>Hier kan je verschillende grafieken zien over het aantal boeken of welke genre je het meeste gelezen heb. </p>
-  <img src="readme-images/Stats1.jpeg" width="200px" alt="Filters">
-  <img src="readme-images/Stats5.jpeg" width="200px" alt="Filters opties">
-  <img src="readme-images/Stats2.jpeg" width="200px" alt="Cirkeldiagrammen">
-  <img src="readme-images/Stats3.jpeg" width="200px" alt="Lijndiagram">
-  <img src="readme-images/Stats4.jpeg" width="200px" alt="Staafdiagram">
-
+  <h2>Informatie-scherm. </h2>
+  <p>Op deze pagina kan je informatie over één boek lezen en je kan hierdoor je keuze maken of je het boek wel wilt lezen. </p>
+  <img src="readme-images/TheStoryGraph-full-Informatie.png" width="200px" alt="Volledige Informatiepagina">
+  <img src="readme-images/Info1.jpeg" width="200px" alt="The Iron Widow">
+  <img src="readme-images/Info2.jpeg" width="200px" alt="Description">
+  <img src="readme-images/Info3.jpeg" width="200px" alt="Community reviews ">
+  <img src="readme-images/Info4.jpeg" width="200px" alt="Content warning">
 </details> 
 
 
@@ -82,10 +81,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina's: 
   <h2>Home-pagina:</h2>
-    <img src="readme-images/opgedeelte-hoofdpagina.jpg" width="200px" alt="Opgedeelte pagina, Home-pagina">
+    <img src="readme-images/homepagine-opgedeelt.jpg" width="200px" alt="Opgedeelte pagina, Home-pagina">
 
   <h2>Stats:</h2>
-    <img src="readme-images/opgedeelte-stats.jpg" width="200px" alt="Opgedeelte pagina, Statenstieken-pagina">
+    <img src="readme-images/information-opgedeelt.jpg" width="200px" alt="Opgedeelte pagina, Informatie-pagina">
+    <img src="readme-images/information-opgedeelt-stukjes.jpg" width="200px" alt="Opgedeelte pagina, Informatie-pagina">
 
 
   ### dynamisch deel (bijv menu): 
