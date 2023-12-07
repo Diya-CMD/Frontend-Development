@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    src: url("https://fonts.googleapis.com/css2?family=Expletus+Sans&family=Montserrat:wght@100&family=Podkova&family=Poppins:wght@300&family=Saira+Condensed:wght@700&display=swap") format('url');
+}
+
+
 *, *::after, *::before {
   box-sizing:border-box;  
   font-family: 'Poppins', sans-serif;
@@ -20,13 +27,14 @@ h1{
 	color: var(--color-turquoise);
 	margin: 0;
 	padding: 0;
+	font-size: 20px;
 }
 
 h2{
 	color: var(--color-turquoise);
 	margin: 0;
 	padding:0;
-	font-weight: 16px ;
+	font-size: 16px ;
 
 }
 
@@ -34,14 +42,18 @@ h3{
 	color: var(--color-black);
 	margin: 0;
 	padding:0;
-	font-weight: 16px;
+	font-size: 16px;
 }
 
 p{
 	color: var(--color-black);
 	margin: 0;
 	padding:0;
-	font-weight: 14px;
+	font-size: 14px;
+}
+
+img{
+	
 }
 
 

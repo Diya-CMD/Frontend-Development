@@ -92,7 +92,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/opgedeelte-nav.jpg" width="375px" alt="breakdown van een dynamisch deel, Menu">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -122,8 +121,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/index-html1.png" width="300px" alt="Index html, Home-pagina"> 
 
   <p>Bij de deze pagina heb ik hetzelfde gedaan, alleen heb ik voor deze pagina in de apparte CSS iets om de sections gezet. Die vakken zijn van de orginele website.</p>
-  <img src= "readme-images/stats-website1.png" width="300px" alt="Stats website, Statistieken pagina">
-  <img src= "readme-images/stats-html1.png" width="300px" alt="Stats html, Statistieken pagina">
+  <img src= "readme-images/" width="300px" alt="Stats website, Statistieken pagina">
+  <img src= "readme-images/" width="300px" alt="Stats html, Statistieken pagina">
  
 
 
