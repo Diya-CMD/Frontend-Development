@@ -171,7 +171,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <p>Na de feedback van vorige week werd er mij verteld dat SVG animatie moeilijk zijn om te maken, vooral in een korte tijd. Ik heb er even naar gekeken en ik heb besloten om mijn tweede pagina te veranderen naar de detail pagina van een boek. </p>
 
 <h2>Home-pagina</h2>
-<p>Aan de homepagina heb ik een slideshow toe gevoegd.</p>
+<p>Aan de homepagina heb ik een slideshow toe gevoegd. In de footer heb ik ook een &copy; toegevoegd inplaats van het credit tekentje.</p>
   <img src= "readme-images/index-html2.png" width="300px" alt="Home website, html">
  <p>Ik heb ook een face-font voor het typorafie toegevoegd. Inplaats van een link in de HTML.</P> 
    <img src= "readme-images/font-face.png" width="300px" alt="font-face, css">
@@ -179,7 +179,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <h2>informatie-pagina</h2>
   <img src= "readme-images/info-html1.png" width="300px" alt="informatie website, html">
-  <img src= "readme-images/info-css2.png" width="300px" alt="informatie website, css">
+   <p>Ik heb nog geen css toegevoegd aan deze pagina.</P> 
+
 
 
   ### Agenda voor meeting
@@ -196,7 +197,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
   - Als je de scrollbar weghaalt haal je ook de manier weg hoe mensen met een screenreader tussen de afbeeldingen kunnen scrollen. (iets anders ervoor vinden of de scrollbar behouden)
-  - De ./ is niet verplicht je kiest één van de manieren, licht aan de developer. 
+  - De ./ is niet verplicht je kiest één van de manieren, licht aan de developer. Tenzij je iets uit je main map haalt. 
   - nog een punt
   - ...
 

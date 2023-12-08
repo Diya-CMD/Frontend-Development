@@ -65,6 +65,20 @@ button{
 	border-radius: 25px;
 }
 
-/* footer p{
+footer ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
 	
-} */
+} 
+
+/*li + li zorg ervoor dat de eerste li geen lijne heeft, next-sibling*/
+footer ul li + li{
+	border-left: solid 1px black;
+}
+
+footer ul a{
+	display: block;
+	padding: .5em 1em;
+}
