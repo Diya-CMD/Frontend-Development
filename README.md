@@ -120,9 +120,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
    <img src="readme-images/index-website1.png" width="300px" alt="Index webpagina, Home-pagina">
   <img src="readme-images/index-html1.png" width="300px" alt="Index html, Home-pagina"> 
 
-  <p>Bij de deze pagina heb ik hetzelfde gedaan, alleen heb ik voor deze pagina in de apparte CSS iets om de sections gezet. Die vakken zijn van de orginele website.</p>
-  <img src= "readme-images/" width="300px" alt="Stats website, Statistieken pagina">
-  <img src= "readme-images/" width="300px" alt="Stats html, Statistieken pagina">
+  <p>Bij de statensieken-pagina heb ik hetzelfde gedaan, alleen heb ik voor deze pagina in de apparte CSS iets om de sections gezet. Die vakken zijn van de orginele website.</p>
+
  
 
 
@@ -169,17 +168,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+<p>Na de feedback van vorige week werd er mij verteld dat SVG animatie moeilijk zijn om te maken, vooral in een korte tijd. Ik heb er even naar gekeken en ik heb besloten om mijn tweede pagina te veranderen naar de detail pagina van een boek. </p>
+
+<h2>Home-pagina</h2>
+  <img src= "readme-images/index-html2.png" width="300px" alt="Home website, html">
+  <img src= "readme-images/index-css2.png" width="300px" alt="Home website, css">
+
+<h2>informatie-pagina</h2>
+  <img src= "readme-images/info-html2.png" width="300px" alt="informatie website, html">
+  <img src= "readme-images/info-css2.png" width="300px" alt="informatie website, css">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+ 
+  |  Kaylin Noëlla     | Diya               |
+  | ---                | ---                | 
+  | dit bespreken      | scrollbar weghalen | 
+  | en dat ook nog     |                    | 
+  | ...                | ...                | 
 
 
   ### Verslag van meeting
