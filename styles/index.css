@@ -33,7 +33,15 @@ section ul {
     white-space: nowrap; 
     margin: 1em; 
     padding: 0; 
+    scrollbar-width: none;  /* hidden Firefox */  
+    scrollbar-height: none;  /* hidden Firefox */
 } 
+
+/*How to hide scrollbars with CSS. (z.d.). https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp*/
+/*hidden google*/
+ul::-webkit-scrollbar {
+    display: none;
+  }
   
 section ul li { 
     display: inline-block; 

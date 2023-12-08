@@ -171,29 +171,32 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <p>Na de feedback van vorige week werd er mij verteld dat SVG animatie moeilijk zijn om te maken, vooral in een korte tijd. Ik heb er even naar gekeken en ik heb besloten om mijn tweede pagina te veranderen naar de detail pagina van een boek. </p>
 
 <h2>Home-pagina</h2>
+<p>Aan de homepagina heb ik een slideshow toe gevoegd.</p>
   <img src= "readme-images/index-html2.png" width="300px" alt="Home website, html">
+ <p>Ik heb ook een face-font voor het typorafie toegevoegd. Inplaats van een link in de HTML.</P> 
+   <img src= "readme-images/font-face.png" width="300px" alt="font-face, css">
   <img src= "readme-images/index-css2.png" width="300px" alt="Home website, css">
 
 <h2>informatie-pagina</h2>
-  <img src= "readme-images/info-html2.png" width="300px" alt="informatie website, html">
+  <img src= "readme-images/info-html1.png" width="300px" alt="informatie website, html">
   <img src= "readme-images/info-css2.png" width="300px" alt="informatie website, css">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
  
-  |  Kaylin Noëlla     | Diya               |
-  | ---                | ---                | 
-  | dit bespreken      | scrollbar weghalen | 
-  | en dat ook nog     |                    | 
-  | ...                | ...                | 
+  |  Kaylin Noëlla                                   | Diya               |
+  | ---                                              | ---                | 
+  | Moet er een container om een bepaald element     | scrollbar weghalen | 
+  | is ./ verplicht                                  | styling footer     | 
+  | ...                                              | ...                | 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
+  - Als je de scrollbar weghaalt haal je ook de manier weg hoe mensen met een screenreader tussen de afbeeldingen kunnen scrollen. (iets anders ervoor vinden of de scrollbar behouden)
+  - De ./ is niet verplicht je kiest één van de manieren, licht aan de developer. 
   - nog een punt
   - ...
 
@@ -233,8 +236,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  1. How to create a horizontal scrolling menu. (z.d.). https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp 
-Voor een slideshow the maken
+  1. Voor een slideshow the maken
+  How to create a horizontal scrolling menu. (z.d.). https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp 
+  How to hide scrollbars with CSS. (z.d.). https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp
+
   2. bron 2
   3. ...
 
