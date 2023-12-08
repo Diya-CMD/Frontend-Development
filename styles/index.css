@@ -12,7 +12,7 @@
 
 main section:first-of-type{
     border: 1px solid;
-    border-color: var(--color-grey);
+    border-color: var(--color-grey); 
     border-radius: 10px;
 }
 
