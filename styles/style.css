@@ -73,12 +73,19 @@ footer ul{
 	
 } 
 
+footer nav ul li a{
+	margin: 0;
+	padding: 0.25em;
+	font-size: 15px;
+}
+
 /*li + li zorg ervoor dat de eerste li geen lijne heeft, next-sibling*/
 footer ul li + li{
 	border-left: solid 1px black;
 }
 
 footer ul a{
+
 	display: block;
 	padding: .5em 1em;
 }
