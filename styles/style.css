@@ -4,7 +4,6 @@
     src: url("https://fonts.googleapis.com/css2?family=Expletus+Sans&family=Montserrat:wght@100&family=Podkova&family=Poppins:wght@300&family=Saira+Condensed:wght@700&display=swap") format('url');
 }
 
-
 *, *::after, *::before {
   box-sizing:border-box;  
   font-family: 'Poppins', sans-serif;
@@ -54,16 +53,24 @@ p{
 	color: var(--color-black);
 	margin: 0;
 	padding:0;
-	font-size: 14px;
+	font-size: 16px;
 }
 
+a{
+	text-decoration: none;
+	color: var(--color-black);
+}
 
-button{
+a:hover{
+	color: var(--color-turquoise);
+}
+
+/* button{
 	color: var(--color-white);
 	background-color: var(--color-turquoise);
 	border: none;
 	border-radius: 25px;
-}
+} */
 
 footer ul{
 	margin: 0;

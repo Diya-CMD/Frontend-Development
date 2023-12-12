@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+section ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex
+} 
+
+section nav ul li a{
+	margin: 0;
+	padding: 0.25em;
+	font-size: 15px;
+}
+
+/*li + li zorg ervoor dat de eerste li geen lijne heeft, next-sibling*/
+section ul li{
+	border: solid 1px black;
+}
+
+section ul a{
+	display: block;
+	padding: .5em 1em;
+}
+
