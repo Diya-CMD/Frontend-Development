@@ -95,20 +95,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 </details>
 
-
-
-
-
-## Voortgang 1 (week 2)
-
-<details>
-  In deze week was ik ziek, dus kon ik jammer genoeg niet bij de eerste voortgangsgesprek zijn. U kunt bij mijn groepsgenoten; Kaylin Noëlla, Insa en Sem zien wat er deze week besproken werd.
-</details>
-
-
-
-
-
 ## Voortgang 2 (week 3)
 
 <details>
@@ -121,8 +107,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/index-html1.png" width="300px" alt="Index html, Home-pagina"> 
 
   <p>Bij de statensieken-pagina heb ik hetzelfde gedaan, alleen heb ik voor deze pagina in de apparte CSS iets om de sections gezet. Die vakken zijn van de orginele website.</p>
-
- 
 
 
   ### Agenda voor meeting
@@ -157,8 +141,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
 </details>
-
-
 
 
 
@@ -203,7 +185,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 </details>
 
+## Herkansing 
+<details>
 
+
+</details>
 
 
 
