@@ -199,19 +199,33 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <h3>eerste poging</h3>
+  <img src="../Frontend-Development/readme-images/homewebsite1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="../Frontend-Development/readme-images/infowebsite1.png" width="375px" alt="uitomst opdracht 1">
+
+   <h3>tweede poging</h3>
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+ <h3>eerste poging</h3>
+ <p>Tijdens het laatste feedback moment heb ik geleerd hoe je een goede footer moet maken, als er een naviatie in zit. Je kan in de CSS gebruik maken van li+li als je wilt dat de eerste li bijv. geen borderzijkant wilt geven. </p>
+  <img src="../Frontend-Development/readme-images/footerwebsite.png" width="375px" alt="top">
+  <img src="../Frontend-Development/readme-images/footerhtml.png" width="375px" alt="top">
+  <img src="../Frontend-Development/readme-images/footercss.png" width="375px" alt="top">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
+   <h3>tweede poging</h3>
+  
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+ <h3>eerste poging</h3>
+Je kan het al zien bij het eerste kopje. De pagina zit meerder deels leeg en ik ga het daarom herkansen.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  
+  <h3>tweede poging</h3>
+
 </details>
 
 
