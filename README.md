@@ -204,20 +204,31 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/footerhtml.png" width="375px" alt="top">
   <img src="readme-images/footercss.png" width="375px" alt="top">
 
-
-
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
- <h3>eerste poging</h3>
-Je kan het al zien bij het eerste kopje. De pagina zit meerder deels leeg en ik ga het daarom herkansen.
+  Persoonlijk vond ik het moeilijk om gewoon te beginnen met het project. Zelf ben ik niet dol op coderen en om iets helemaal van nul tot honderd te maken was 'eng'. 
 
+  ### Verslag van meeting
 
+  - Als je de scrollbar weghaalt haal je ook de manier weg hoe mensen met een screenreader tussen de afbeeldingen kunnen scrollen. (iets anders ervoor vinden of de scrollbar behouden)
+  - De ./ is niet verplicht je kiest één van de manieren, licht aan de developer. Tenzij je iets uit je main map haalt. 
+  - nog een punt
+  - ...
 </details>
 
 
 ## Herkansing 
 <details>
 
+  ### Je uitkomst - karakteristiek screenshots:
+  <img src="readme-images/" width="375px" alt="uitomst opdracht 2">
+  <img src="readme-images/" width="375px" alt="uitomst opdracht 2">
+  
+  ### Dit ging goed/Heb ik geleerd: 
+  <img src="readme-images/" width="375px" alt="top">
+  <img src="readme-images/" width="375px" alt="top">
+  <img src="readme-images/" width="375px" alt="top">
+
+  ### Dit was lastig/Is niet gelukt:
 
 </details>
 
