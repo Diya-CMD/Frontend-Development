@@ -193,16 +193,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je uitkomst - karakteristiek screenshots:
   <h3>eerste poging</h3>
-  <img src="../Frontend-Development/readme-images/homewebsite1.png" width="375px" alt="uitomst opdracht 1">
-  <img src="../Frontend-Development/readme-images/infowebsite1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/homewebsite1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/infowebsite1.png" width="375px" alt="uitomst opdracht 1">
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
  <h3>eerste poging</h3>
  <p>Tijdens het laatste feedback moment heb ik geleerd hoe je een goede footer moet maken, als er een naviatie in zit. Je kan in de CSS gebruik maken van li+li als je wilt dat de eerste li bijv. geen borderzijkant wilt geven. </p>
-  <img src="../Frontend-Development/readme-images/footerwebsite.png" width="375px" alt="top">
-  <img src="../Frontend-Development/readme-images/footerhtml.png" width="375px" alt="top">
-  <img src="../Frontend-Development/readme-images/footercss.png" width="375px" alt="top">
+  <img src="readme-images/footerwebsite.png" width="375px" alt="top">
+  <img src="readme-images/footerhtml.png" width="375px" alt="top">
+  <img src="readme-images/footercss.png" width="375px" alt="top">
 
 
 
