@@ -142,8 +142,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 </details>
 
-
-
 ## Voortgang 3 (week 4)
 
 <details>
@@ -189,7 +187,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Eindgesprek (week 5)
 
 <details>
-  <summary>uitwerken voor eindgesprek</summary>
+  <summary>uitwerken voor eerste eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
   <h3>eerste poging</h3>
@@ -227,7 +225,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/" width="375px" alt="top">
   <img src="readme-images/" width="375px" alt="top">
   <img src="readme-images/" width="375px" alt="top">
-
+  
   ### Dit was lastig/Is niet gelukt:
 
 </details>
