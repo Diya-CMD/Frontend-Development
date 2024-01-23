@@ -11,7 +11,9 @@ section ul{
 	margin: 0;
 	padding: 0;
 	list-style: none;
-	display: flex
+	display: flex;
+	gap:1em;
+	flex-wrap: wrap;
 } 
 
 section nav ul li a{

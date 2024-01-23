@@ -185,13 +185,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 </details>
 
-## Herkansing 
-<details>
-
-
-</details>
-
-
 
 ## Eindgesprek (week 5)
 
@@ -203,9 +196,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="../Frontend-Development/readme-images/homewebsite1.png" width="375px" alt="uitomst opdracht 1">
   <img src="../Frontend-Development/readme-images/infowebsite1.png" width="375px" alt="uitomst opdracht 1">
 
-   <h3>tweede poging</h3>
-
-
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
  <h3>eerste poging</h3>
@@ -215,21 +205,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="../Frontend-Development/readme-images/footercss.png" width="375px" alt="top">
 
 
-   <h3>tweede poging</h3>
-  
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
  <h3>eerste poging</h3>
 Je kan het al zien bij het eerste kopje. De pagina zit meerder deels leeg en ik ga het daarom herkansen.
 
-  
-  <h3>tweede poging</h3>
 
 </details>
 
 
+## Herkansing 
+<details>
 
+
+</details>
 
 
 ## Bronnenlijst
